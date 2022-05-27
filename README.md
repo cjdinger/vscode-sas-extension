@@ -54,15 +54,15 @@ To specify the color theme:
 
 - SAS Light
 
-<img src="doc/images/Illuminate.PNG"/>
+<img src="./doc/images/Illuminate.PNG"/>
 
 - SAS Dark
 
-<img src="doc/images/Ignite.PNG"/>
+<img src="./doc/images/Ignite.PNG"/>
 
 - SAS High Contrast
 
-<img src="doc/images/HighContrast.PNG"/>
+<img src="./doc/images/HighContrast.PNG"/>
 
 ### Code Completion
 
@@ -83,7 +83,7 @@ To view the syntax help:
 In the following example, the help panel displays syntax help for the DATA= option in the PROC PRINT statement.
 
 _Tip_: Click the links in the syntax help window to navigate to the SAS online help.
-<img src="doc/images/CodeCompletion.PNG"/>
+<img src="./doc/images/CodeCompletion.PNG"/>
 
 ### Snippets
 
@@ -92,14 +92,14 @@ Snippets are lines of commonly used code or text that you can insert into your p
 To access the list of snippets for a function or procedure:
 
 - Type the name of a function or procedure in your SAS program. This example shows a snippet for the PROC DS2.
-  <img src="doc/images/Snippets.PNG"/>
+  <img src="./doc/images/Snippets.PNG"/>
 
 ### Code Folding and Code Outline
 
 Regions of code are identified in your SAS program as blocks of code that can be collapsed and expanded. You can also view an outline of your program that identifies DATA steps, procedures, macro sections, and user-defined regions of code.
 
 _Tip_: You can define a custom region by adding `/*region*/` and `/*endregion*/` tags to the start and end of the block of code.
-<img src="doc/images/Folding.PNG"/>
+<img src="./doc/images/Folding.PNG"/>
 
 ### Configuring the SAS Extension
 
@@ -126,7 +126,7 @@ To run a SAS program:
 1. Click `Run` in the upper right corner of your SAS program window.
 2. When you are prompted, enter your password. Your SAS log and any results are displayed in the application.
 
-<img src="doc/images/RunResult.PNG"/>
+<img src="./doc/images/RunResult.PNG"/>
 
 **Note**:
 
